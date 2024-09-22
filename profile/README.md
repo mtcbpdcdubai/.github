@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/032571b4-9226-4834-b33d-f60c520dbd0b" height=150> 
   <h4><em>Boot Up Your Ambition. Excel in Technology with Us!</em></h4> 
 </div> 
-<p>The Microsoft Tech Club is a student-led organization that is dedicated to fostering a community of like-minded individuals who are passionate about technology and innovation. Our goal is to provide members with opportunities to learn, grow, and connect with each other. Join us today and become a part of this exciting community!</p> 
+<p>The Microsoft Tech Club is a student-led organization at BITS Pilani Dubai Campus that is dedicated to fostering a community of like-minded individuals who are passionate about technology and innovation. Our goal is to provide members with opportunities to learn, grow, and connect with each other. Join us today and become a part of this exciting community!</p> 
 <div> 
   <h1>What We Offer</h1> 
   <ul> 
