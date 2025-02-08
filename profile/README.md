@@ -19,12 +19,12 @@
 <div> 
   <h1>Stay Connected</h1> 
   <p align="left"> 
-    <a href="https://www.linkedin.com/company/microsoft-tech-club/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="https://www.instagram.com/mtcbpdc/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-    <a href="https://www.threads.net/@mtcbpdc" target="blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a> 
-    <a href="https://medium.com/@microsofttechclub" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> 
-    <a href="https://x.com/mtcbpdc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://mtcbpdcdubai.github.io/MTC-BITS-Pilani-Dubai-Campus/" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
+    <a href="https://linkedin.com/company/microsoft-tech-club" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/mtcbpdc"                    target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://threads.net/@mtcbpdc"                     target="blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+    <a href="https://medium.com/@microsofttechclub"            target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://x.com/mtcbpdc"                            target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://mtcbpdc.org"                              target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div> 
 <div> 
   <h1>Join Our Community</h1> 
